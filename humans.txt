@@ -1,0 +1,24 @@
+/* mo.tarusa.ru */
+
+/* TEAM */
+
+  Site administrator: Ars P. Shilovsky
+  Twitter: @arsshilovsky
+  Location: Tarusa, Russia
+  
+  IT consultant: Stacey Shilovsky
+  Location: Tarusa, Russia
+
+/* THANKS */
+
+  Simpliste by: Renat Rafikov
+  Twitter: @rafikov
+  Site: http://cssr.ru/
+  Location: Russia
+
+/* SITE */
+
+  Standards: HTML5, CSS3
+  Language:Russian
+  Doctype:HTML5
+  Software: Geany, Gimp, ImageMagic

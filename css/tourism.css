@@ -1,0 +1,19 @@
+.col_body {
+  width:78%;
+  margin:0 1% 1% 0;
+  float:left;
+  padding: 1% 1% 1% 1%;
+}
+
+.sidebar {
+  width:16%;
+  margin:1% 1% 1% 0;
+  float:left;
+  padding: 1% 1% 1% 1%;
+  background:#AABBDD;
+}
+
+.img_sidebar {
+max-width:100%;
+margin: 1% 1% 1% 1%;
+}
