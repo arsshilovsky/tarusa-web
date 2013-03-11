@@ -21,4 +21,4 @@
   Standards: HTML5, CSS3
   Language:Russian
   Doctype:HTML5
-  Software: Geany, Gimp, ImageMagic
+  Software: Ubuntu Server, Nginx, Geany, Gimp, ImageMagic, WebStorm
