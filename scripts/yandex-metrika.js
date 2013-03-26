@@ -29,4 +29,3 @@ if (w.opera == "[object Opera]") {
     } else { f(); }
 })(document, window, "yandex_metrika_callbacks");
 </script>
-    <noscript><div><img src="//mc.yandex.ru/watch/17158624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
