@@ -1,11 +1,3 @@
-/**
- * Created with JetBrains WebStorm.
- * User: stealth
- * Date: 3/26/13
- * Time: 11:37 AM
- * To change this template use File | Settings | File Templates.
- */
-<script type="text/javascript">
 (function (d, w, c) {
     (w[c] = w[c] || []).push(function() {
         try {
@@ -28,4 +20,3 @@ if (w.opera == "[object Opera]") {
     d.addEventListener("DOMContentLoaded", f, false);
     } else { f(); }
 })(document, window, "yandex_metrika_callbacks");
-</script>

@@ -1,3 +1,4 @@
 impress.js - jQuery plugin which uses CSS3 functionality to create presentations
 jquery.flexslider-min.js - Gallery plugin
 uheprng.js - Ultra-high entropy pseudo-random generator
+yandex-metrika.js - Yandex Metrika count
