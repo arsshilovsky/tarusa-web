@@ -13,6 +13,76 @@
     <title>Администрация муниципального района "Тарусский район"</title>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+   		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#container').highcharts({
+                chart: {
+                    spacingRight: 5
+                },
+                title: {
+                    text: 'Подъем уровня воды в реке Ока'
+                },
+                xAxis: {
+                    type: 'datetime',
+                    title: {
+                        text: null
+                    }
+                },
+                yAxis: {
+                    title: {
+                        text: 'Уровень'
+                    },
+                    labels: {
+                        formatter: function() {
+                            return this.value / 100 +'м';
+                        }
+                    }
+                },
+                tooltip: {
+                    pointFormat: 'Уровень воды <b>{point.y:,.0f} сантиметров</b>',
+                    shared: true
+                },
+                legend: {
+                    enabled: false
+                },
+                plotOptions: {
+                    area: {
+                        fillColor: {
+                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1},
+                            stops: [
+                                [0, Highcharts.getOptions().colors[0]],
+                                [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                            ]
+                        },
+                        lineWidth: 1,
+                        marker: {
+                            enabled: false
+                        },
+                        shadow: false,
+                        states: {
+                            hover: {
+                                lineWidth: 1
+                            }
+                        },
+                        threshold: null
+                    }
+                },
+
+                series: [{
+                    type: 'area',
+                    name: 'Уровень воды',
+                    pointInterval: 24 * 3600 * 1000,
+                    pointStart: Date.UTC(2013, 3, 5),
+                    data: [
+                        67, 87, 130, 165, 206, 236, 290
+                    ]
+                }]
+            });
+        });
+
+
+    </script>
 </head>
 
 
@@ -92,6 +162,16 @@
             <img class="img col_33" src="images/news/sport_03_04_2013/hockey1.jpg" alt="">
             <p>27 – 28 марта 2013 года Команда хоккеистов МБОУ ДОД ДЮСШ под руководством тренера-преподавателя по хоккею Жигунова Николая Николаевича, приняла участие во II этапе Всероссийских соревнований юных хоккеистов клуба «Золотая шайба» имени А.В. Тарасова и заняла 3 место. В соревнованиях приняли участие обучающиеся Детской юношеской спортивной школы 2002 - 2003 годов рождения. </p>
             <a href="news.html">Подробнее</a>
+
+            <!-- Уровень воды в Оке -->
+            <p class="clearfix"></p>
+            <div class="col_100" id="container" style="min-width: 300px; height: 300px; margin: 0 auto"></div>
+            <ul>
+                <li>Критический уровень подъема воды, после которого начинается подтопление в г. Таруса, составляет 11 метров</li>
+                <li>Максимальный уровень подъема воды в 2010 году составил 5 м 90 см.</li>
+                <li>Максимальный уровень подъема воды в 2011 году составил 4 м 30 см.</li>
+                <li>Максимальный уровень подъема воды в 2012 году составил 8 м 15 см.</li>
+            </ul>
         </div>
 
         <div class="hero col_33">
@@ -153,6 +233,7 @@
 
 
 </div>
-
+<script src="scripts/highcharts/highcharts.js"></script>
+<script src="scripts/highcharts/modules/exporting.js"></script>
 </body>
 </html>
