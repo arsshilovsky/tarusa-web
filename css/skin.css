@@ -21,10 +21,8 @@ ul li, ol li {
   padding:2em 2% 0 2%;
   color:#fff;
   text-align:center;
-  background:#FFFFFF;
-  background-image:url('../images/design/background.jpg');
-  background-repeat:repeat-x;
-  position:relative;
+    background: #FFFFFF url('../images/design/background.jpg') repeat-x;
+    position:relative;
 }
 
 .header:before {
