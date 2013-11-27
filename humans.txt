@@ -4,6 +4,7 @@
 
   Site administrator: Ars P. Shilovsky
   Twitter: @arsshilovsky
+  VK: vk.com/arsshilovsky
   Location: Tarusa, Russia
   
   IT consultant: Stacey Shilovsky
@@ -21,4 +22,4 @@
   Standards: HTML5, CSS3
   Language:Russian
   Doctype:HTML5
-  Software: Ubuntu Server, Nginx, Geany, Gimp, ImageMagic, WebStorm
+  Software: Ubuntu Server, Nginx, Geany, Gimp, ImageMagic, WebStorm, Git
