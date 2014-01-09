@@ -21,7 +21,7 @@ ul li, ol li {
   padding:2em 2% 0 2%;
   color:#fff;
   text-align:center;
-    background: #FFFFFF url('../images/design/background_newyear.jpg') repeat-x;
+    background: #FFFFFF url('../images/design/background_winter.jpg') repeat-x;
     position:relative;
 }
 
@@ -40,8 +40,7 @@ ul li, ol li {
 
 .logo {
   font-size:40px;
-  /*color:#4F4E6A;*/
-  color: #e3e3e3;
+  color:#4F4E6A;
   width:100%;
 }
 
