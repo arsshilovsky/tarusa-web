@@ -219,9 +219,6 @@ a.button, .button {
   border:1px solid #666;
   text-align:center;
   text-decoration:none;
-  -webkit-border-radius: 6px 6px 6px 6px;
-  -moz-border-radius: 10px 10px 10px 10px;
-  border-radius:10px 10px 10px 10px;
   background:#6699CC;
   color: #dddddd;
   padding:8px 20px 10px;
