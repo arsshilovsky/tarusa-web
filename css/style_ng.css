@@ -64,9 +64,9 @@ ul li, ol li {
 .header {
   margin:0 0 1em 0;
   padding:2em 2% 0 2%;
-  color: #007FE1;
+  color: #6699CC;
   text-align:center;
-    background: #007FE1 url('../images/design/background_spring.jpg') repeat-x;
+    background: #6699CC url('../images/design/background_spring.jpg') repeat-x;
     position:relative;
 }
 
