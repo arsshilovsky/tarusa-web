@@ -31,6 +31,10 @@ form { margin:0; }
 fieldset { border:0; margin:0; padding:0; }
 legend { border:0; *margin-left:-7px; padding:0; }
 label { cursor:pointer; }
+button { font-size:100%; margin:0; vertical-align:baseline; *vertical-align:middle; }
+button { line-height:normal; *overflow:visible; }
+button { cursor:pointer; -webkit-appearance:button; }
+button::-moz-focus-inner, input::-moz-focus-inner { border:0; padding:0; }
 table { border-collapse:collapse; border-spacing:0; }
 .hidden { display:none; visibility:hidden; }
 .clearfix:before, .clearfix:after { content:""; display:table; }
@@ -211,8 +215,36 @@ h1 {
   background-size:20px auto;
 }
 
-/* skin.css ends here */
+a.button, .button {
+  border:1px solid #666;
+  text-align:center;
+  text-decoration:none;
+  -webkit-border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  border-radius:10px 10px 10px 10px;
+  background:#6699CC;
+  color: #dddddd;
+  padding:8px 20px 10px;
+  font-family:verdana, sans-serif;
+  display:inline-block;
+}
 
+a.button:hover, .button:hover {
+  color:#fff;
+  text-shadow:1px 1px 0 #444;
+  -webkit-box-shadow:rgba(0, 0, 0, 0.4) 0 6px 4px -3px, rgba(0, 0, 0, 0.7) 0 0 4px inset;
+  -moz-box-shadow:rgba(0, 0, 0, 0.4) 0 6px 4px -3px, rgba(0, 0, 0, 0.7) 0 0 4px inset;
+  box-shadow:rgba(0, 0, 0, 0.4) 0 6px 4px -3px, rgba(0, 0, 0, 0.7) 0 0 4px inset;
+}
+
+a.button:active, .button:active {
+  color:#333;
+  background:#555;
+  text-shadow:1px 1px 0 #888;
+  -webkit-box-shadow:#000 0 -3px 14px inset;
+  -moz-box-shadow:#000 0 -3px 14px inset;
+  box-shadow:#000 0 -3px 14px inset;
+}
 
 .col_25 {
   width:22%;
@@ -276,7 +308,6 @@ display:none;
 
 .img {max-width:100%;}
 /* End helper classes */
-
 
 @media only screen and (max-width:480px) { /* Smartphone */
 
