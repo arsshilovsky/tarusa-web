@@ -312,6 +312,21 @@ ul li, ol li {
     background: #D6D6D6;
 }
 
+.maltcev {
+    padding: 0 0 0 2%;
+    font-size: 16px;
+    /* font-family:'Normal 400 Italic'; */
+    background: #D6D6D6;
+}
+
+
+.col_maltcev {
+    width: 97%;
+    margin: 0 0% 0% 0;
+    float: left;
+    padding: 1% 1% 1% 1%;
+}
+
 .article {
     background: #F0F0F0;
     padding: 0 0 2em 2%;
