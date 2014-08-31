@@ -1,0 +1,8 @@
+<a href="images/news/bearmount_01_09_2014/big/1.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/1.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/2.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/2.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/3.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/3.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/4.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/4.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/5.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/5.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/6.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/6.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/7.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/7.jpg" alt=""/></a>
+<a href="images/news/bearmount_01_09_2014/big/8.jpg" rel="darkbox"><img class="img col_25" src="images/news/bearmount_01_09_2014/8.jpg" alt=""/></a>
