@@ -1,6 +1,0 @@
-<a href="images/news/baryatino_05_09_2014/big/1.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/1.jpg" alt=""/></a>
-<a href="images/news/baryatino_05_09_2014/big/2.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/2.jpg" alt=""/></a>
-<a href="images/news/baryatino_05_09_2014/big/3.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/3.jpg" alt=""/></a>
-<a href="images/news/baryatino_05_09_2014/big/4.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/4.jpg" alt=""/></a>
-<a href="images/news/baryatino_05_09_2014/big/5.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/5.jpg" alt=""/></a>
-<a href="images/news/baryatino_05_09_2014/big/6.jpg" rel="darkbox"><img class="img col_33" src="images/news/baryatino_05_09_2014/6.jpg" alt=""/></a>
