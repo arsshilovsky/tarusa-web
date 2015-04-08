@@ -1,3 +1,0 @@
-<a href="images/news/shemetov_07_04_2015/big/1.jpg" rel="darkbox"><img class="img col_33" src="images/news/shemetov_07_04_2015/1.jpg" alt=""/></a>
-<a href="images/news/shemetov_07_04_2015/big/2.jpg" rel="darkbox"><img class="img col_33" src="images/news/shemetov_07_04_2015/2.jpg" alt=""/></a>
-<a href="images/news/shemetov_07_04_2015/big/3.jpg" rel="darkbox"><img class="img col_33" src="images/news/shemetov_07_04_2015/3.jpg" alt=""/></a>
