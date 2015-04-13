@@ -326,7 +326,13 @@ h1 {
     background: #de6969;
     background-size: 20px auto;
 }
-
+.success {
+    border: 2px solid #46a533;
+    color: #fff;
+    background: #7cde69;
+    background-size: 20px auto;
+    padding: 8px 14px;
+}
 a.button, .button {
     border: 1px solid #666;
     text-align: center;
