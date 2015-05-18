@@ -1,4 +1,4 @@
-/* CSS reset. Based on HTML5 boilerplate reset http://html5boilerplate.com/  */
+/* CSS reset. Based on HTML5 boilerplate reset http://html5boilerplate.com/   */
 article, aside, details, figcaption, figure, footer, header, nav, section {
     display: block;
 }
@@ -237,9 +237,23 @@ ul li, ol li {
     background: #D6D6D6;
 }
 
-.maltcev {
+.whatsup {
     padding: 0 0 0 2%;
     font-size: 16px;
+    background: #D6D6D6;
+}
+
+.whatsup h1 {
+    font-size: 23px;
+    font-family: georgia, serif;
+    display: inline-block;
+    font-style: italic;
+    color: #6699CC;
+}
+
+.maltcev {
+    padding: 0 0 0 2%;
+    font-size: 14px;
     /* font-family:'Normal 400 Italic'; */
     background: #D6D6D6;
 }
@@ -464,7 +478,7 @@ a.button:active, .button:active {
 
 .img_maltcev {
     float: left;
-    margin: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
 }
 
 .img_hidden {
