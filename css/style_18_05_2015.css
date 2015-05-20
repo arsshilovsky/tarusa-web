@@ -184,6 +184,7 @@ ul li, ol li {
     font-size: 40px;
     color: #ffffff;
     width: 100%;
+    text-shadow: 2px 2px 8px #000000
 }
 
 .menu_main {
